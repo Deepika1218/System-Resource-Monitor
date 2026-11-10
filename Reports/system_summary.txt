@@ -1,0 +1,27 @@
+==========================================
+       SYSTEM RESOURCE USAGE SUMMARY
+==========================================
+
+Report Generated : 2026-11-10 17:31:07
+First Reading    : 2026-11-10 16:46:07
+Last Reading     : 2026-11-10 17:31:05
+Total Records    : 25
+
+CPU USAGE
+------------------------------------------
+Average CPU Usage : 15.03%
+Maximum CPU Usage : 32.50%
+
+RAM USAGE
+------------------------------------------
+Average RAM Usage : 61.76%
+Maximum RAM Usage : 64.20%
+
+DISK USAGE
+------------------------------------------
+Average Disk Usage : 43.86%
+Maximum Disk Usage : 44.00%
+
+==========================================
+             END OF REPORT
+==========================================
